@@ -723,7 +723,7 @@ upgrade filebeat helm chart and check in kibana’s UI if the app logs are strea
 
 
 ### 📌 ArgoCD
-![ArgoCD](./assets/argocd-new.png)
+![ArgoCD](./assets/ecom-argocd-new.png)
 
 ---
 
@@ -744,6 +744,6 @@ upgrade filebeat helm chart and check in kibana’s UI if the app logs are strea
 ---
 
 ### 📌 Prometheus Dashboard
-![Prometheus](./ecom/ecom-prometheus-new.png)
+![Prometheus](./assets/ecom-prometheus-new.png)
 
 
