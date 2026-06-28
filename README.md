@@ -28,7 +28,7 @@ EasyShop is a modern, full-stack e-commerce platform built with Next.js 14, Type
 
 EasyShop follows a three-tier architecture pattern:
 
-![Diagram](./assets/ecom-architecure.png)
+![Diagram](./assets/ecom-architecure.jpeg)
 
 ### 1. Presentation Tier (Frontend)
 - Next.js React Components
@@ -717,20 +717,16 @@ filebeatConfig:
 
 upgrade filebeat helm chart and check in kibana’s UI if the app logs are streaming.
 
+## Project Images
 
-
-### 📌 Architecture Diagram
-![Diagram](./public/diagram-export.JPG)
-
----
 
 ### 📌 ArgoCD
-![ArgoCD](./public/Argocd.JPG)
+![ArgoCD](./assets/argocd.png)
 
 ---
 
 ### 📌 Capture
-![Capture](./public/Capture.JPG)
+![Capture](./public/Capture)
 
 ---
 
@@ -741,16 +737,16 @@ upgrade filebeat helm chart and check in kibana’s UI if the app logs are strea
 ---
 
 ### 📌 Grafana Dashboard
-![Grafana](./public/grafana.JPG)
+![Grafana](./public/ecom-grafana.png)
 
 ---
 
 ### 📌 Kibana Logs View
-![Kibana](./public/kibana.JPG)
+![Kibana](./assets/ecom-kibana.png)
 
 ---
 
 ### 📌 Prometheus Dashboard
-![Prometheus](./public/prometheus.JPG)
+![Prometheus](./public/ecom-prometheus-new.png)
 
-### WO! ooo!!! ...Your project is now deployed.
+
